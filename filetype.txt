@@ -1,5 +1,4 @@
-  //This script updates 2 bitmaps and an
-  //icon in MyProg.exe ...	
+  //This script updates filetype icon in 7z.dll	
   [FILENAMES]
   Exe=    7z.dll
   SaveAs= 7z-new.dll	
