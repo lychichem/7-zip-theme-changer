@@ -1,7 +1,9 @@
   //This script updates filetype icon in 7z.dll	
   [FILENAMES]
   Exe=    7z.dll
+  //Words in bracket must be changed to path of your 7-zip
   SaveAs= 7z-new.dll	
+  //Patched file will be in this folder
   [COMMANDS]
   -addoverwrite 0.ico, ICONGROUP,0,
   -addoverwrite 1.ico, ICONGROUP,1,

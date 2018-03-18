@@ -1,7 +1,9 @@
   //This script updates bitmaps in 7zFM.exe
   [FILENAMES]
-  Exe=    7zFM.exe
-  SaveAs= 7zFM-new.exe
+  Exe=    "[Your 7-zip install path]\7zFM.exe"
+  //Words in bracket must be changed to path of your 7-zip
+  SaveAs= 7zFM.exe
+  //Patched file will be in this folder
   [COMMANDS]
   -addoverwrite 100.bmp, BITMAP,100,
   -addoverwrite 101.bmp, BITMAP,101,
