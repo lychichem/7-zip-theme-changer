@@ -1,0 +1,31 @@
+  //This script updates 2 bitmaps and an
+  //icon in MyProg.exe ...	
+  [FILENAMES]
+  Exe=    7z.dll
+  SaveAs= 7z-new.dll	
+  [COMMANDS]
+  -addoverwrite 0.ico, ICONGROUP,0,
+  -addoverwrite 1.ico, ICONGROUP,1,
+  -addoverwrite 2.ico, ICONGROUP,2,
+  -addoverwrite 3.ico, ICONGROUP,3,
+  -addoverwrite 4.ico, ICONGROUP,4,
+  -addoverwrite 5.ico, ICONGROUP,5,
+  -addoverwrite 6.ico, ICONGROUP,6,
+  -addoverwrite 7.ico, ICONGROUP,7,
+  -addoverwrite 8.ico, ICONGROUP,8,
+  -addoverwrite 9.ico, ICONGROUP,9,
+  -addoverwrite 10.ico, ICONGROUP,10,
+  -addoverwrite 11.ico, ICONGROUP,11,
+  -addoverwrite 12.ico, ICONGROUP,12,
+  -addoverwrite 13.ico, ICONGROUP,13,
+  -addoverwrite 14.ico, ICONGROUP,14,
+  -addoverwrite 15.ico, ICONGROUP,15,
+  -addoverwrite 16.ico, ICONGROUP,16,
+  -addoverwrite 17.ico, ICONGROUP,17,
+  -addoverwrite 18.ico, ICONGROUP,18,
+  -addoverwrite 19.ico, ICONGROUP,19,
+  -addoverwrite 20.ico, ICONGROUP,20,
+  -addoverwrite 21.ico, ICONGROUP,21,
+  -addoverwrite 22.ico, ICONGROUP,22,
+  -addoverwrite 23.ico, ICONGROUP,23,
+  -addoverwrite 24.ico, ICONGROUP,24,

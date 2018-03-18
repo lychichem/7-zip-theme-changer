@@ -1,0 +1,19 @@
+  //This script updates bitmaps in 7zFM.exe
+  [FILENAMES]
+  Exe=    7zFM.exe
+  SaveAs= 7zFM-new.exe
+  [COMMANDS]
+  -addoverwrite 100.bmp, BITMAP,100,
+  -addoverwrite 101.bmp, BITMAP,101,
+  -addoverwrite 102.bmp, BITMAP,102,
+  -addoverwrite 103.bmp, BITMAP,103,
+  -addoverwrite 104.bmp, BITMAP,104,
+  -addoverwrite 105.bmp, BITMAP,105,
+  -addoverwrite 106.bmp, BITMAP,106,
+  -addoverwrite 150.bmp, BITMAP,150,
+  -addoverwrite 151.bmp, BITMAP,151,
+  -addoverwrite 152.bmp, BITMAP,152,
+  -addoverwrite 153.bmp, BITMAP,153,
+  -addoverwrite 154.bmp, BITMAP,154,
+  -addoverwrite 155.bmp, BITMAP,155,
+  -addoverwrite 156.bmp, BITMAP,156,
