@@ -6,4 +6,5 @@ Resource Hacker Scripts to change 7-zip's default ugly theme. Just work for Wind
 3. Download ResourceHacker portable and release resourcehacker.exe.   
 4. Copy resourcehacker.exe to filetype/toolbar folder if you want to change them.   
 5. Run cmd/powershell as administrator, cd to the folder where resourcehacker is located, then input `resourcehacker.exe -script [The txt scriptname in this folder]`   
-6. Enjoy!
+6. Copy the patched file to the path of origin files to replace them.
+7. Enjoy!
