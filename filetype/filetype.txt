@@ -1,6 +1,6 @@
   //This script updates filetype icon in 7z.dll	
   [FILENAMES]
-  Exe=    [Your 7-zip install path]\7z.dll
+  Exe=    "[Your 7-zip install path]\7z.dll"
   //Words in bracket must be changed to path of your 7-zip
   SaveAs= 7z.dll	
   //Patched file will be in this folder
